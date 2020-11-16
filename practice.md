@@ -35,6 +35,10 @@
 > I’ve always been more interested
 > in the future than in the past.
 
+This is a sentence.
+
+New line (üks tühi rida vahel)
+
 `#` or `####` or '###' heading or `some word`
 
 `var example = true`
@@ -69,6 +73,13 @@ Hey @mari bla bla bla
 
 - [x] This is a complete item
 - [ ] This is an incomplete item (tühik nurksulgude vahele)
+
+
+3 või rohkem  * või - või _
+
+---
+***
+___
 
 Eesnimi | Perekonnanimi
 ------- | -------------
