@@ -3,9 +3,10 @@
 ###### Heading 6 (h6)
 
 *italic text*
+
 **bold text**
 
-[link to Google] (http://google.com)
+[link to Google](http://google.com)
 
 1. One
 2. Two
