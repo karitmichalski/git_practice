@@ -2,9 +2,11 @@
 ## Heading 2 (h2)
 ###### Heading 6 (h6)
 
-*italic text* 
+*italic text*   _italic text_
 
-**bold text**
+**bold text** 
+
+**_bold italic_**
 
 [link to Google](http://google.com)
 
@@ -21,6 +23,12 @@
 - Bullet points
   - sub-points
   - sub-points
+  
+1. One
+
+   Mingi tekst (rea ees nt 3 tühikut ja üleval tühi rida)
+2. Two  
+3. Three
   
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it. - Captain Janeway
   
