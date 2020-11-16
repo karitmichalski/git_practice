@@ -58,21 +58,23 @@ Hey @mari bla bla bla
 
 ` backtick
 
-* asterisk
+* asterisk  \* asterisk
 
 _ underscore
 
-{} curly braces
+{} curly braces {curly braces}
 
-[] square brackets
+[] square brackets [square brackets]
 
-() parentheses
+() parentheses (parentheses)
 
 # hash mark
 
-+ plus sign
+\# hash mark
 
-- minus sign (hyphen)
++ plus sign  \+ plus sign
+
+- minus sign (hyphen)  \- minus sign
 
 . dot
 
