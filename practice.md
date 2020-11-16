@@ -10,8 +10,6 @@
 
 1. One
 2. Two
-  1. sub
-  1. sub
 3. Three
 
 * Bullet points
@@ -27,5 +25,5 @@
   ![Image of cat](https://octodex.github.com/images/yaktocat.png)
   
   > Coffee. The finest organic suspension ever devised... I beat the Borg with it. - Captain Janeway
-  
-  > -Captain Janeway
+
+`#` or `####` or '###' heading
