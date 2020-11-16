@@ -2,8 +2,7 @@
 ## Heading 2 (h2)
 ###### Heading 6 (h6)
 
-*italic text*
-
+*italic text* 
 **bold text**
 
 [link to Google](http://google.com)
