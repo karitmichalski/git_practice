@@ -10,6 +10,8 @@
 
 1. One
 2. Two
+  * sub
+  * sub
 3. Three
 
 * Bullet points
@@ -46,7 +48,10 @@ if (isAwesome){
     }
 ```
 
-Hey @kneath - have a nice day!
-
 Hey @mari bla bla bla
+
+- [x] This is a complete item
+- [ ] This is an incomplete item (tühik nurksulgude vahele)
+
+
 
