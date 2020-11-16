@@ -26,4 +26,15 @@
   
   > Coffee. The finest organic suspension ever devised... I beat the Borg with it. - Captain Janeway
 
-`#` or `####` or '###' heading
+`#` or `####` or '###' heading or `some word`
+
+`var example = true`
+
+hhhhhfygyhg
+
+    if (isAwesome){
+      return true
+    }
+    
+ gigiguihuui   
+    
