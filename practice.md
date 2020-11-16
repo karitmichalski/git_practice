@@ -10,8 +10,6 @@
 
 1. One
 2. Two
-  * sub
-  * sub
 3. Three
 
 * Bullet points
@@ -27,6 +25,9 @@
   ![Image of cat](https://octodex.github.com/images/yaktocat.png)
   
   > Coffee. The finest organic suspension ever devised... I beat the Borg with it. - Captain Janeway
+  
+> I’ve always been more interested
+> in the future than in the past.
 
 `#` or `####` or '###' heading or `some word`
 
@@ -53,5 +54,16 @@ Hey @mari bla bla bla
 - [x] This is a complete item
 - [ ] This is an incomplete item (tühik nurksulgude vahele)
 
-
+\ backslash
+` backtick
+* asterisk
+_ underscore
+{} curly braces
+[] square brackets
+() parentheses
+# hash mark
++ plus sign
+- minus sign (hyphen)
+. dot
+! exclamation mark
 
