@@ -30,11 +30,20 @@
 
 `var example = true`
 
-hhhhhfygyhg
-
-    if (isAwesome){
+    if (isAwesome){ neli tühikut enne koodi
       return true
     }
     
- gigiguihuui   
-    
+```
+if (isAwesome){
+      return true
+    }
+```
+
+```javascript
+if (isAwesome){
+      return true
+    }
+```
+
+
