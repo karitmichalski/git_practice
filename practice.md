@@ -49,8 +49,28 @@ if (isAwesome){
 
 Hey @mari bla bla bla
 
+[links]()
+
+<del>unwanted</del> word
+
+~~unwanted~~
+
+:thought_balloon:
+:octocat:
+:maple_leaf:
+
 - [x] This is a complete item
 - [ ] This is an incomplete item (tühik nurksulgude vahele)
+
+Eesnimi | Perekonnanimi
+------- | -------------
+Kati | Toomingas
+Joosep | Kask
+Marika | Kuusk
+Tiit | Tamm
+Jana | Toots
+
+http://www.github.com/
 
 ![Image of cat](https://octodex.github.com/images/yaktocat.png)
 
